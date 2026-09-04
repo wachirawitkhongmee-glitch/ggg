@@ -1,0 +1,196 @@
+{
+  "player_build_data": [
+    {
+      "type": "playerBuildTimingData",
+      "msg": {
+        "build_event_id": "408361f9fe6ceda4293c979b595afe6a",
+        "build_player": 234340,
+        "preprocess_player": 610,
+        "produce_player_script_assemblies": 45016,
+        "build_scripts_dlls": 59,
+        "writing_asset_files": 116801,
+        "postprocess_built_player": 60478,
+        "node_summary_table": [
+          {
+            "name": "Csc",
+            "duration": 3983
+          },
+          {
+            "name": "Csc",
+            "duration": 4393
+          },
+          {
+            "name": "Csc",
+            "duration": 788
+          },
+          {
+            "name": "Csc",
+            "duration": 1827
+          },
+          {
+            "name": "Csc",
+            "duration": 401
+          },
+          {
+            "name": "Csc",
+            "duration": 1440
+          },
+          {
+            "name": "Csc",
+            "duration": 2037
+          },
+          {
+            "name": "Csc",
+            "duration": 425
+          },
+          {
+            "name": "Csc",
+            "duration": 4016
+          },
+          {
+            "name": "Csc",
+            "duration": 8797
+          },
+          {
+            "name": "Csc",
+            "duration": 4074
+          },
+          {
+            "name": "Csc",
+            "duration": 3638
+          },
+          {
+            "name": "Csc",
+            "duration": 438
+          },
+          {
+            "name": "Csc",
+            "duration": 7526
+          },
+          {
+            "name": "Csc",
+            "duration": 3636
+          },
+          {
+            "name": "Csc",
+            "duration": 2825
+          },
+          {
+            "name": "Csc",
+            "duration": 1398
+          },
+          {
+            "name": "Csc",
+            "duration": 1441
+          },
+          {
+            "name": "Csc",
+            "duration": 3960
+          },
+          {
+            "name": "Csc",
+            "duration": 3966
+          },
+          {
+            "name": "Csc",
+            "duration": 6378
+          },
+          {
+            "name": "Csc",
+            "duration": 782
+          },
+          {
+            "name": "Csc",
+            "duration": 3247
+          },
+          {
+            "name": "Csc",
+            "duration": 744
+          },
+          {
+            "name": "Csc",
+            "duration": 1989
+          },
+          {
+            "name": "Csc",
+            "duration": 1460
+          },
+          {
+            "name": "Csc",
+            "duration": 1264
+          },
+          {
+            "name": "Csc",
+            "duration": 1417
+          },
+          {
+            "name": "Csc",
+            "duration": 2644
+          },
+          {
+            "name": "Csc",
+            "duration": 1445
+          },
+          {
+            "name": "Csc",
+            "duration": 1471
+          },
+          {
+            "name": "Csc",
+            "duration": 1967
+          },
+          {
+            "name": "Csc",
+            "duration": 318
+          },
+          {
+            "name": "Csc",
+            "duration": 1371
+          },
+          {
+            "name": "Csc",
+            "duration": 1375
+          },
+          {
+            "name": "Csc",
+            "duration": 5900
+          },
+          {
+            "name": "Csc",
+            "duration": 410
+          },
+          {
+            "name": "Csc",
+            "duration": 1293
+          },
+          {
+            "name": "Csc",
+            "duration": 6078
+          },
+          {
+            "name": "Csc",
+            "duration": 3446
+          },
+          {
+            "name": "Csc",
+            "duration": 379
+          },
+          {
+            "name": "UnityLinker.exe",
+            "duration": 525
+          }
+        ]
+      },
+      "version": 1
+    },
+    {
+      "type": "unityLinkerData",
+      "msg": {
+        "build_event_id": "408361f9fe6ceda4293c979b595afe6a",
+        "node_executed": true,
+        "option_rule_set": "Copy"
+      },
+      "version": 1
+    }
+  ]
+}
